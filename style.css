@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-  background-color: lightgreen;
+  background-color: rgba(132, 214, 132, 0.776);
   width: 400px;
   padding: 20px;
   margin: 5px;
